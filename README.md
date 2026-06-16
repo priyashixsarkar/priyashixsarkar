@@ -56,10 +56,10 @@ I am an **MCA student** and aspiring **Software Engineer** with a passion for bu
 ### Let's Connect
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
+  <a href="www.linkedin.com/in/priyashi-" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:priyashisarkar65@gmail.com" target="_blank">
+  <a href="priyashisarkar65@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
