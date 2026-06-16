@@ -1,44 +1,67 @@
-# Hi there! 👋 I'm Priyashi Sarkar
+# Hi, I'm Priyashi Sarkar
 
-### Aspiring Software Engineer | Full-Stack Developer | Blockchain & AI Enthusiast
-
-I am an MCA student passionate about building secure, scalable, and intelligent software solutions. My work bridges the gap between academic research and industry-grade application development.
+I am an **MCA student** and aspiring **Software Engineer** with a passion for building secure, scalable, and intelligent systems. I specialize in the **MERN stack**, **Blockchain integration**, and **Data Analytics**. My work bridges the gap between complex academic research and real-world software applications.
 
 ---
 
-### 🛠 Technical Toolkit
+### Technical Toolkit
 
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, Java, JavaScript, C |
-| **Full-Stack** | React.js, Node.js, Express.js, Tailwind CSS, FastAPI |
+| **Web Dev** | React.js, Node.js, Express.js, Tailwind CSS, FastAPI |
 | **Data & AI** | Machine Learning (Random Forest), MySQL, MongoDB |
-| **Specialized** | Blockchain Architecture (Ethereum, Web3.py) |
+| **Blockchain** | Ethereum, Web3.py |
 | **Tools** | Git, GitHub, Figma, Canva, System Design |
 
 ---
 
-### 🚀 Key Projects
+### Featured Projects
 
-* **[Decentralized Smart Transportation System](https://github.com/priyashixsarkar)**
-    * Designed an N-tier architecture utilizing **Ethereum-simulated Blockchain** for secure data management.
-    * Integrated a **Cognitive AI Firewall** using FastAPI and Random Forest, achieving **93% threat classification accuracy**.
-* **[ClipNotes](https://github.com/priyashixsarkar)**
-    * A scalable MERN stack application featuring CRUD operations, secure JWT authentication, and dynamic category filtering.
-* **[Rural Healthcare Portal](https://github.com/priyashixsarkar)**
-    * Engineered a patient management system with digitized record workflows and automated alert engines (IEEE project).
+#### [1. Decentralized Smart Transportation System](https://github.com/priyashixsarkar)
+*Published Research | MCA Major Project*
+* **The Problem:** Addressed data security vulnerabilities and single points of failure in traditional transport management.
+* **The Solution:** Architected an N-tier system using **Ethereum-simulated Blockchain** for immutable data handling and integrated a **Cognitive AI Firewall** (FastAPI + Random Forest) for real-time threat detection.
+* **Impact:** Achieved **93% threat classification accuracy** in validated research metrics.
+
+#### [2. ClipNotes - MERN Stack Application](https://github.com/priyashixsarkar)
+*Full-Stack Web Development*
+* **Features:** A robust note-organizing platform built with the MERN stack.
+* **Key Specs:** Implemented secure **JWT authentication**, full CRUD operations, and dynamic category filtering for a seamless user experience.
+
+#### [3. Rural Healthcare Portal](https://github.com/priyashixsarkar)
+*IEEE Computational Intelligence Society Intern Project*
+* **Purpose:** Modernizing healthcare workflows in rural settings.
+* **Features:** Engineered patient onboarding, digitized medical record workflows, and automated inventory-based alert systems.
 
 ---
 
-### 📈 GitHub Stats
-![Priyashi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyashixsarkar&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyashixsarkar&layout=compact&theme=radical)
+### GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyashixsarkar&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyashixsarkar&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-### 📫 Let's Connect
-* **LinkedIn:** [Insert your LinkedIn URL here]
-* **Email:** priyashisarkar65@gmail.com
-* **Location:** Cooch Behar, India
+### Education & Experience
+* **MCA (Pursuing) |** Adamas University
+* **BCA (83.3%) |** University of North Bengal
+* **Industry Training Intern |** Univolve Consulting
+* **Web Development Intern |** IEEE Computational Intelligence Society
 
-*Currently open to software engineering internships and junior roles.*
+---
+
+### Let's Connect
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:priyashisarkar65@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+*Currently open to software engineering, AI/ML engineer and junior developer roles and data analyst .*
